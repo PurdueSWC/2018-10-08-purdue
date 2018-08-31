@@ -592,9 +592,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 
   <p>
+  <strong>
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
+  </strong>
   </p>
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
